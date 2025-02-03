@@ -1,0 +1,24 @@
+{
+  "name": "helloajinkya",
+  "version": "1.0.0",
+  "description": "Hello NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AjinyaNaik/npm-personal-package.git"
+  },
+  "keywords": [
+    "NPM",
+    "custom",
+    "package"
+  ],
+  "author": "Ajinkya Naik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AjinyaNaik/npm-personal-package/issues"
+  },
+  "homepage": "https://github.com/AjinyaNaik/npm-personal-package#readme"
+}
